@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ridho</h1>
 <h3 align="center">A Video Editor who had campus task to make GitHub Account.</h3>
 
-- 🔭 I’m currently working as [Freelance Video Editor](https://drive.google.com/drive/folders/1dPmJya4XBz0ktuJvFWTQcInQJpOCwE_j?usp=share_link)
+- 🔭 I’m currently working as [Freelance Video Editor]
 
-- 👨‍💻 All of my projects are available at [https://ranridho.carrd.co/](https://ranridho.carrd.co/)
+- 👨‍💻 All of my projects are available at Portofolio Ridho (https://drive.google.com/drive/folders/1dPmJya4XBz0ktuJvFWTQcInQJpOCwE_j?usp=share_link)
 
 - 📫 How to reach me **ridhoalamin1912@gmail.com**
 
